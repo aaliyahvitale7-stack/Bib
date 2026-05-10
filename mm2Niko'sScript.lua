@@ -1,4 +1,4 @@
---MM2 Script by niko#3004 ;)
+mmmmmm--MM2 Script by niko#3004 ;)
 
 local plrs = game:service'Players'
 local lplr = plrs.LocalPlayer
